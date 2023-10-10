@@ -18,3 +18,7 @@ En este ejercicio hemos intentado mejorar la tabla para que sea más accesible y
 #### D2 - Tuesday/Prueba5JesusDaniel
 
 En este ejercicio hemos analizado la base de datos y hemos intentado predecir resultados futuros de los lanzamientos de SpaceX
+
+#### D2 - Tuesday/Prueba6JesusDaniel
+
+En este ejercicio hemos explorado la posibilidad de hacer gráficas mediante la librería 'matplotlib.pyplot'
