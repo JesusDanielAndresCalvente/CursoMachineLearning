@@ -22,3 +22,7 @@ En este ejercicio hemos analizado la base de datos y hemos intentado predecir re
 #### D2 - Tuesday/Prueba6JesusDaniel
 
 En este ejercicio hemos explorado la posibilidad de hacer gráficas mediante la librería 'matplotlib.pyplot'
+
+#### D3 - Wednesday/Prueba7JesusDaniel
+
+En este ejercicio hemos realizado unos ejercicios en los que utilizamos lenguaje SQL dentro de Python para consultar datos de una tabla, mostrando los resultados volcando la consulta en un Dataframe de Pandas
