@@ -34,3 +34,7 @@ Ahora hemos utilizado la librería 'Prophet' para hacer una predicción de los v
 #### D3 - Wednesday/Prueba9JesusDaniel
 
 En esta práctica hemos aprendido cómo representar datos en un mapa.
+
+#### D4 - Wednesday/Prueba10JesusDaniel
+
+Para comenzar el último día hemos visto cómo comparar la precisión de los distintos modelos de entrenamiento para poder elegir el mejor dependiendo de lo que necesitemos
