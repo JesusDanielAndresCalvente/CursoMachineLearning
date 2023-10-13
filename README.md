@@ -30,3 +30,7 @@ Como repaso de otro lenguaje anteriormente aprendido, hemos realizado unos ejerc
 #### D3 - Wednesday/Prueba8JesusDaniel
 
 Ahora hemos utilizado la librería 'Prophet' para hacer una predicción de los valores de 'Cocacola' durante el próximo año.
+
+#### D3 - Wednesday/Prueba9JesusDaniel
+
+En esta práctica hemos aprendido cómo representar datos en un mapa.
